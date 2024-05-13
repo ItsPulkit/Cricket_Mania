@@ -1,4 +1,5 @@
-# Cricket_Mania
+# Cricket_Mania :
+Get Live Updates and Summary Of All Cricket Matches.
 
 <img width="1512" alt="Screenshot 2024-05-13 at 9 17 05 PM" src="https://github.com/ItsPulkit/Cricket_Mania/assets/56322075/bdb8e5bf-4b31-49c0-8feb-a67389a11d04">
 
